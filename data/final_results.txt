@@ -1,0 +1,406 @@
+=== Categorized Items ===
+
+Produce:
+ - Apples
+ - Bananas
+ - Carrots
+ - Oranges
+ - Broccoli
+ - Onions
+ - Potatoes
+ - Tomatoes
+ - Bell Peppers
+ - Mushrooms
+ - Spinach
+ - Lettuce
+ - Strawberries
+
+Meat/Seafood:
+ - Chicken Breast
+ - Ground Beef
+ - Salmon
+ - Shrimp
+ - Sausages
+
+Dairy:
+ - Milk
+ - Cheese
+ - Yogurt
+ - Butter
+ - Eggs
+
+Grains:
+ - Bread
+ - Cereal
+ - Pasta
+ - Rice
+ - Granola Bars
+ - Oatmeal
+ - Flour
+
+Snacks:
+ - Almonds
+ - Nuts
+ - Popcorn
+
+Beverages:
+ - Orange Juice
+ - Coffee
+ - Tea
+ - Soda
+ - Juice
+ - Water
+
+Pantry:
+ - Sugar
+ - Honey
+ - Peanut Butter
+ - Jam
+ - Olive Oil
+ - Ice Cream
+
+Cleaning Supplies:
+ - Toilet Paper
+ - Paper Towels
+ - Dish Soap
+ - Laundry Detergent
+ - Shampoo
+ - Toothpaste
+
+Miscellaneous:
+ - Strawberries
+ - Chocolate
+
+=== Price and Nutrition Data ===
+
+Item: Apples
+Price: $1.31
+Calories: 444 kcal
+Fat: 16 g
+Protein: 9 g
+
+Item: Bananas
+Price: $7.47
+Calories: 181 kcal
+Fat: 16 g
+Protein: 27 g
+
+Item: Carrots
+Price: $9.84
+Calories: 382 kcal
+Fat: 8 g
+Protein: 8 g
+
+Item: Oranges
+Price: $1.24
+Calories: 418 kcal
+Fat: 2 g
+Protein: 18 g
+
+Item: Broccoli
+Price: $2.77
+Calories: 318 kcal
+Fat: 2 g
+Protein: 17 g
+
+Item: Onions
+Price: $4.12
+Calories: 200 kcal
+Fat: 8 g
+Protein: 5 g
+
+Item: Potatoes
+Price: $8.85
+Calories: 214 kcal
+Fat: 2 g
+Protein: 25 g
+
+Item: Tomatoes
+Price: $8.06
+Calories: 187 kcal
+Fat: 18 g
+Protein: 3 g
+
+Item: Bell Peppers
+Price: $3.94
+Calories: 274 kcal
+Fat: 11 g
+Protein: 27 g
+
+Item: Mushrooms
+Price: $6.61
+Calories: 319 kcal
+Fat: 5 g
+Protein: 13 g
+
+Item: Spinach
+Price: $7.88
+Calories: 147 kcal
+Fat: 11 g
+Protein: 8 g
+
+Item: Lettuce
+Price: $9.70
+Calories: 319 kcal
+Fat: 3 g
+Protein: 23 g
+
+Item: Strawberries
+Price: $7.16
+Calories: 434 kcal
+Fat: 1 g
+Protein: 22 g
+
+Item: Chicken Breast
+Price: $3.95
+Calories: 256 kcal
+Fat: 12 g
+Protein: 15 g
+
+Item: Ground Beef
+Price: $6.74
+Calories: 155 kcal
+Fat: 9 g
+Protein: 6 g
+
+Item: Salmon
+Price: $5.36
+Calories: 309 kcal
+Fat: 9 g
+Protein: 24 g
+
+Item: Shrimp
+Price: $4.54
+Calories: 261 kcal
+Fat: 13 g
+Protein: 21 g
+
+Item: Sausages
+Price: $1.74
+Calories: 123 kcal
+Fat: 1 g
+Protein: 1 g
+
+Item: Milk
+Price: $7.31
+Calories: 342 kcal
+Fat: 13 g
+Protein: 11 g
+
+Item: Cheese
+Price: $2.71
+Calories: 51 kcal
+Fat: 1 g
+Protein: 4 g
+
+Item: Yogurt
+Price: $5.23
+Calories: 356 kcal
+Fat: 12 g
+Protein: 14 g
+
+Item: Butter
+Price: $7.75
+Calories: 466 kcal
+Fat: 2 g
+Protein: 7 g
+
+Item: Eggs
+Price: $7.43
+Calories: 281 kcal
+Fat: 19 g
+Protein: 1 g
+
+Item: Bread
+Price: $6.94
+Calories: 71 kcal
+Fat: 13 g
+Protein: 7 g
+
+Item: Cereal
+Price: $4.49
+Calories: 295 kcal
+Fat: 9 g
+Protein: 16 g
+
+Item: Pasta
+Price: $1.69
+Calories: 415 kcal
+Fat: 18 g
+Protein: 23 g
+
+Item: Rice
+Price: $1.53
+Calories: 58 kcal
+Fat: 9 g
+Protein: 4 g
+
+Item: Granola Bars
+Price: $2.78
+Calories: 160 kcal
+Fat: 13 g
+Protein: 12 g
+
+Item: Oatmeal
+Price: $3.52
+Calories: 263 kcal
+Fat: 9 g
+Protein: 14 g
+
+Item: Flour
+Price: $7.72
+Calories: 381 kcal
+Fat: 5 g
+Protein: 12 g
+
+Item: Almonds
+Price: $9.21
+Calories: 136 kcal
+Fat: 4 g
+Protein: 30 g
+
+Item: Nuts
+Price: $7.35
+Calories: 500 kcal
+Fat: 7 g
+Protein: 26 g
+
+Item: Popcorn
+Price: $1.74
+Calories: 496 kcal
+Fat: 5 g
+Protein: 6 g
+
+Item: Orange Juice
+Price: $9.22
+Calories: 284 kcal
+Fat: 6 g
+Protein: 30 g
+
+Item: Coffee
+Price: $5.14
+Calories: 57 kcal
+Fat: 14 g
+Protein: 12 g
+
+Item: Tea
+Price: $4.75
+Calories: 270 kcal
+Fat: 3 g
+Protein: 23 g
+
+Item: Soda
+Price: $4.12
+Calories: 128 kcal
+Fat: 1 g
+Protein: 2 g
+
+Item: Juice
+Price: $4.44
+Calories: 439 kcal
+Fat: 17 g
+Protein: 1 g
+
+Item: Water
+Price: $7.30
+Calories: 468 kcal
+Fat: 20 g
+Protein: 19 g
+
+Item: Sugar
+Price: $6.67
+Calories: 396 kcal
+Fat: 12 g
+Protein: 3 g
+
+Item: Honey
+Price: $6.91
+Calories: 200 kcal
+Fat: 13 g
+Protein: 20 g
+
+Item: Peanut Butter
+Price: $1.67
+Calories: 52 kcal
+Fat: 2 g
+Protein: 10 g
+
+Item: Jam
+Price: $8.77
+Calories: 318 kcal
+Fat: 13 g
+Protein: 10 g
+
+Item: Olive Oil
+Price: $7.58
+Calories: 168 kcal
+Fat: 1 g
+Protein: 30 g
+
+Item: Ice Cream
+Price: $5.35
+Calories: 54 kcal
+Fat: 17 g
+Protein: 15 g
+
+Item: Toilet Paper
+Price: $3.09
+Calories: 225 kcal
+Fat: 12 g
+Protein: 14 g
+
+Item: Paper Towels
+Price: $7.32
+Calories: 149 kcal
+Fat: 6 g
+Protein: 9 g
+
+Item: Dish Soap
+Price: $8.10
+Calories: 480 kcal
+Fat: 1 g
+Protein: 8 g
+
+Item: Laundry Detergent
+Price: $9.23
+Calories: 339 kcal
+Fat: 17 g
+Protein: 7 g
+
+Item: Shampoo
+Price: $8.36
+Calories: 263 kcal
+Fat: 20 g
+Protein: 6 g
+
+Item: Toothpaste
+Price: $5.27
+Calories: 130 kcal
+Fat: 12 g
+Protein: 19 g
+
+Item: Strawberries
+Price: $3.77
+Calories: 435 kcal
+Fat: 9 g
+Protein: 11 g
+
+Item: Chocolate
+Price: $4.24
+Calories: 325 kcal
+Fat: 3 g
+Protein: 18 g
+
+=== Recipe for Category 'Produce' ===
+
+Recipe Name: Summer Squash Salad
+
+Ingredients:
+ - 1 medium zucchini
+ - 1 medium yellow squash
+ - 1/4 cup olive oil
+ - 2 tablespoons lemon juice
+ - Salt and pepper to taste
+
+Instructions:
+Step 1: Preheat oven to 400°F. Step 2: Slice the zucchini and yellow squash into thin rounds. Step 3: Toss with olive oil, lemon juice, salt, and pepper on a baking sheet. Step 4: Roast for 20-25 minutes or until tender. Step 5: Let cool completely before assembling the salad.
